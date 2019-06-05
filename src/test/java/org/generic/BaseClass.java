@@ -60,7 +60,8 @@ public class BaseClass implements IConstants {
 		driver.manage().timeouts().implicitlyWait(wait, TimeUnit.SECONDS);
 	}
 	public static synchronized WebElement getElement(String locator) {
-		String[] objects=locator.split("-", 2);
+		String locators=object.getProperty(locator);
+		String[] objects=locators.split("-", 2);
 		String locType=objects[0];
 		String locValue=objects[1];
 		WebElement ele=null;
