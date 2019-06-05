@@ -78,7 +78,7 @@ public class ExcelBank extends BaseClass{
 	public static boolean setCellValue(String sheetName, String colName,int rowNo,String data) {
 		int colNo=0;
 		try {
-		sheet = getWorkbook().getSheet(sheetName);
+			sheet = getWorkbook().getSheet(sheetName);
 			Row firstRow = sheet.getRow(0);
 			for (int i = 0; i < firstRow.getLastCellNum(); i++) {
 				if(firstRow.getCell(i).getStringCellValue().equals(colName)) {
