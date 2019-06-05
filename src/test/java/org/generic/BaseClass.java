@@ -14,6 +14,7 @@ import org.testng.annotations.BeforeTest;
 import org.utilities.ReportUtils;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 
 public class BaseClass implements IConstants {
 	public static WebDriver driver;
@@ -56,6 +57,7 @@ public class BaseClass implements IConstants {
 		}
 		driver.manage().window().maximize();
 		driver.get(config.getProperty("url"));
+		test.log(Status.INFO	, "Navigate to UAT Link "+config.getProperty("url"));
 		log.info("Navigated to the UAT link");
 		driver.manage().timeouts().implicitlyWait(wait, TimeUnit.SECONDS);
 	}
