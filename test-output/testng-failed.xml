@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Failed suite [Suite]]">
+  <listeners>
+    <listener class-name="org.utilities.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="org.testcases.TestWelcomePage">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="initialize"/>
+          <include name="openApplication"/>
+          <include name="testWelcomePage"/>
+        </methods>
+      </class> <!-- org.testcases.TestWelcomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test name="Test(failed)(failed)">
+    <classes>
+      <class name="org.testcases.TestWelcomePage">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="initialize"/>
+          <include name="openApplication"/>
+          <include name="testWelcomePage"/>
+        </methods>
+      </class> <!-- org.testcases.TestWelcomePage -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

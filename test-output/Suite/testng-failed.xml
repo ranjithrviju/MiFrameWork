@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.utilities.CustomListeners"/>
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="org.testcases.TestWelcomePage"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testcases.TestWelcomePage">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="initialize"/>
+          <include name="openApplication"/>
+          <include name="testWelcomePage"/>
+        </methods>
+      </class> <!-- org.testcases.TestWelcomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

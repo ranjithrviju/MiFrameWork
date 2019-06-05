@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Suite]" duration-ms="10211" started-at="2019-06-05T07:01:13Z" finished-at="2019-06-05T07:01:23Z">
+    <groups>
+    </groups>
+    <test name="Test(failed)" duration-ms="10211" started-at="2019-06-05T07:01:13Z" finished-at="2019-06-05T07:01:23Z">
+      <class name="org.testcases.TestWelcomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:org.testcases.TestWelcomePage@528931cf]" name="initialize" is-config="true" duration-ms="15" started-at="2019-06-05T12:31:13Z" finished-at="2019-06-05T12:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:org.testcases.TestWelcomePage@528931cf]" name="openApplication" is-config="true" duration-ms="8056" started-at="2019-06-05T12:31:13Z" finished-at="2019-06-05T12:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="FAIL" signature="testWelcomePage()[pri:0, instance:org.testcases.TestWelcomePage@528931cf]" name="testWelcomePage" duration-ms="190" started-at="2019-06-05T12:31:21Z" finished-at="2019-06-05T12:31:21Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at org.testcases.TestWelcomePage.testWelcomePage(TestWelcomePage.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:822)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1130)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWelcomePage -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:org.testcases.TestWelcomePage@528931cf]" name="closebrowser" is-config="true" duration-ms="701" started-at="2019-06-05T12:31:22Z" finished-at="2019-06-05T12:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- org.testcases.TestWelcomePage -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

@@ -1,0 +1,632 @@
+2019-06-04 12:38:27,637 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:40:03,916 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:41:18,374 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:42:42,912 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:44:05,091 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:44:44,491 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:45:24,121 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:47:48,802 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:51:58,303 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:52:47,246 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:53:10,899 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 12:53:10,928 - MiFrameWork Logs -INFO - properties files loaded successfully
+2019-06-04 13:07:50,166 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 13:07:50,166 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 13:08:28,968 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 13:08:28,968 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 13:09:00,354 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 13:09:00,354 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:35:46,786 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:35:46,789 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:35:46,789 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:35:56,806 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:35:56,807 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:37:34,278 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:37:34,281 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:37:34,282 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:37:43,958 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:37:43,960 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:38:12,725 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:38:12,728 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:38:12,729 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:38:20,473 - MiFrameWork Logs -ERROR - Failed to load the file from the path
+2019-06-04 14:38:20,475 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:38:20,476 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:39:06,961 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:39:06,964 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:39:06,965 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:39:18,781 - MiFrameWork Logs -ERROR - Failed to load the file from the path
+2019-06-04 14:39:18,782 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:39:18,784 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:40:14,927 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:40:14,931 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:40:14,931 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:40:24,594 - MiFrameWork Logs -ERROR - Failed to load the file from the path
+2019-06-04 14:40:24,597 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:40:24,598 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:40:50,117 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:40:50,120 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:40:50,121 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:40:58,113 - MiFrameWork Logs -ERROR - Failed to load the file from the path
+2019-06-04 14:40:58,115 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:40:58,116 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:41:48,574 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:41:48,578 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:41:48,579 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:41:56,411 - MiFrameWork Logs -ERROR - Failed to load the file from the path[Ljava.lang.StackTraceElement;@11392934
+2019-06-04 14:41:56,412 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:41:56,413 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:42:15,050 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:42:15,053 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:42:15,054 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:42:23,249 - MiFrameWork Logs -ERROR - Failed to load the file from the path[Ljava.lang.StackTraceElement;@11392934
+2019-06-04 14:42:23,251 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:42:23,252 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:43:22,196 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:43:22,199 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:43:22,200 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:43:30,007 - MiFrameWork Logs -ERROR - Failed to load the file from the pathnull\src\test\resources\exceldata\data.xlsx (The system cannot find the path specified)
+2019-06-04 14:43:30,009 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 14:43:30,010 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:45:06,099 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:45:06,103 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:45:06,103 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:45:14,887 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:47:25,050 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:47:25,053 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:47:25,054 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:47:34,129 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:50:49,363 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:50:49,368 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:50:49,369 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:50:58,755 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:52:14,888 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:52:14,892 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:52:14,893 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:52:23,321 - MiFrameWork Logs -ERROR - Error finding rowsnull
+2019-06-04 14:53:26,829 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:53:26,832 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:53:26,833 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:53:51,453 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 14:53:51,457 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 14:53:51,458 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:07:33,495 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:07:33,495 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:07:33,495 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:09:28,363 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:09:28,379 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:09:28,379 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:21:24,671 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:21:24,671 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:21:24,671 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:22:07,594 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:22:07,594 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:22:07,594 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:23:47,414 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:23:47,414 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:23:47,414 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:49:54,673 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:49:54,673 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:49:54,673 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:50:05,421 - MiFrameWork Logs -ERROR - Sheet name does not exixtnull
+2019-06-04 15:50:05,432 - MiFrameWork Logs -ERROR - Error writing to excel filenull
+2019-06-04 15:50:24,569 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:50:24,585 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:50:24,585 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:52:02,484 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:52:02,500 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:52:02,500 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:52:12,616 - MiFrameWork Logs -ERROR - Error writing to excel fileD:\MiWorkspace\MiFrameWork\src\test\resources\exceldata\data.xlsx (The process cannot access the file because it is being used by another process)
+2019-06-04 15:53:28,650 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:53:28,666 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:53:28,666 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:53:37,070 - MiFrameWork Logs -ERROR - Error writing to excel fileD:\MiWorkspace\MiFrameWork\src\test\resources\exceldata\data.xlsx (The process cannot access the file because it is being used by another process)
+2019-06-04 15:56:54,445 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:56:54,461 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:56:54,461 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:57:02,712 - MiFrameWork Logs -ERROR - Error writing to excel fileD:\MiWorkspace\MiFrameWork\src\test\resources\exceldata\data.xlsx (The process cannot access the file because it is being used by another process)
+2019-06-04 15:57:46,697 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 15:57:46,697 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:57:46,697 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 15:57:55,338 - MiFrameWork Logs -ERROR - Failed to load the file from the pathThe supplied file was empty (zero bytes long)
+2019-06-04 16:00:44,984 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 16:00:44,984 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 16:00:44,984 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 16:00:53,514 - MiFrameWork Logs -ERROR - Failed to load the file from the pathThe supplied file was empty (zero bytes long)
+2019-06-04 17:12:05,057 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:12:05,057 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:12:05,057 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:12:05,057 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:12:14,986 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:12:15,014 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:12:15,240 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:12:16,180 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:16:38,129 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:16:38,133 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:16:38,134 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:16:38,139 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:16:45,912 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:16:46,101 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:16:46,223 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:16:47,109 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:17:21,264 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:17:21,264 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:17:21,264 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:17:21,280 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:17:29,050 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:17:29,087 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:17:29,326 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:17:30,083 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:18:09,519 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:18:09,522 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:18:09,522 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:18:09,526 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:18:17,564 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:18:17,600 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:18:17,809 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:18:18,523 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:20:53,224 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:20:53,228 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:20:53,229 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:20:53,232 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:21:01,157 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:21:01,193 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:21:03,406 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:21:04,058 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:21:18,920 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:21:18,923 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:21:18,924 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:21:18,928 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:21:26,529 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:21:26,566 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:21:26,706 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:21:27,477 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:21:46,143 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:21:46,146 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:21:46,147 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:21:46,150 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:21:53,919 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:21:53,969 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:21:54,117 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:21:54,909 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:22:15,308 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:22:15,312 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:22:15,312 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:22:15,317 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:22:23,240 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:22:23,280 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:22:23,434 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:22:26,061 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:23:52,378 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:23:52,381 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:23:52,382 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:23:52,385 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:24:00,365 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:24:00,441 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:24:00,598 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:24:01,528 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:24:53,418 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:24:53,422 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:24:53,423 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:24:53,426 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:25:01,271 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:25:01,310 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:25:01,460 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:25:02,277 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:25:16,909 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:25:16,913 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:25:16,914 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:25:16,919 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:25:24,522 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:25:24,570 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:25:24,697 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:25:25,619 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:25:25,759 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:25:25,861 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:28:26,715 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:28:26,715 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:28:26,715 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:28:26,730 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:28:34,458 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:28:34,518 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:28:34,672 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:28:35,638 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:28:35,770 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:28:35,870 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:29:12,114 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:29:12,130 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:29:12,130 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:29:12,130 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:29:20,464 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:29:20,508 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:29:20,653 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:29:21,647 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:29:21,808 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:29:21,939 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:31:24,910 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:31:24,910 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:31:24,910 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:31:24,910 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:31:33,022 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:31:33,076 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:31:33,214 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:31:34,129 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:31:34,310 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:31:36,134 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:33:05,168 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:33:05,168 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:33:05,168 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:33:05,168 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:33:13,000 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:33:13,045 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:33:13,213 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:33:14,194 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:33:14,353 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:33:14,395 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:33:40,653 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:33:40,656 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:33:40,657 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:33:40,661 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:33:48,512 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:33:48,562 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:33:48,712 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:33:49,652 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:33:49,812 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:33:51,109 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:35:48,728 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:35:48,744 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:35:48,744 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:35:48,744 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:35:56,570 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:35:56,608 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:35:56,739 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:35:57,714 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:35:57,858 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:35:59,298 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:36:41,925 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:36:41,940 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:36:41,940 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:36:41,940 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:36:49,795 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:36:49,838 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:36:49,981 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:36:50,960 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:36:51,114 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:36:52,452 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:38:50,136 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:38:50,136 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:38:50,152 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:38:50,152 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:38:58,096 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:38:58,147 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:38:58,284 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:38:59,213 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:38:59,364 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:39:00,697 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:39:45,260 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:39:45,260 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:39:45,260 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:39:45,275 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:39:53,088 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:39:53,138 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:39:53,283 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:39:54,227 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:39:54,398 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:39:55,694 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:41:07,256 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:41:07,256 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:41:07,256 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:41:07,256 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:41:15,254 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:41:15,294 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:41:15,432 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:41:16,287 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:41:16,421 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:41:17,760 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:43:36,074 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:43:36,074 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:43:36,074 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:43:36,074 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:43:44,017 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:43:44,061 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:43:44,225 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:43:45,163 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:43:45,346 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:43:47,598 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:45:35,008 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:45:35,008 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:45:35,008 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:45:35,008 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:45:43,050 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:45:43,089 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:45:43,269 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:45:44,247 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:45:44,452 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:45:45,805 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:46:00,714 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:46:00,730 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:46:00,730 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:46:00,735 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:46:08,606 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:46:08,645 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:46:08,783 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:46:09,777 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:46:09,947 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:46:11,275 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 17:48:02,573 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 17:48:02,573 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:48:02,573 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 17:48:02,589 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 17:48:10,327 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 17:48:10,369 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 17:48:10,525 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 17:48:11,433 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 17:48:11,576 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 17:48:13,142 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:17:02,025 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:17:02,025 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:17:02,025 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:17:02,043 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:17:12,106 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:17:12,151 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:17:12,309 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:17:13,258 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:17:13,419 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:17:14,912 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:20:40,236 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:20:40,252 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:20:40,252 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:20:40,252 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:20:47,604 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:20:47,642 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:20:47,756 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:20:48,671 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:20:48,851 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:20:50,423 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:22:25,656 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:22:25,656 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:22:25,656 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:22:25,672 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:22:33,611 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:22:33,671 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:22:33,836 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:22:34,903 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:22:35,089 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:22:36,608 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:25:53,448 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:25:53,448 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:25:53,448 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:25:53,463 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:26:03,083 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:26:03,145 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:26:03,275 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:26:04,202 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:26:04,379 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:26:06,391 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:27:05,313 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:27:05,313 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:27:05,313 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:27:05,330 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:27:14,896 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:27:14,945 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:27:15,067 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:27:15,946 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:27:16,124 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:27:18,151 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:45:03,152 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:45:03,170 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:45:03,171 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:45:03,174 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:45:13,405 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:45:13,445 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:45:13,572 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:45:14,414 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:45:14,569 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:45:16,611 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:47:08,521 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:47:08,537 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:47:08,537 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:47:08,537 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:47:16,513 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:47:16,565 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:47:16,731 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:47:17,723 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:47:17,887 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:47:19,818 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:48:11,620 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:48:11,624 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:48:11,624 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:48:11,629 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:48:19,377 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:48:19,418 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:48:19,549 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:48:20,412 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:48:20,544 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:48:21,815 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:49:57,446 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:49:57,462 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:49:57,462 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:49:57,462 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:50:16,105 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:50:16,108 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:50:16,108 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:50:16,112 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:50:23,889 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:50:23,940 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:50:24,077 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:50:24,916 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:50:25,068 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:50:26,534 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:51:51,973 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:51:51,973 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:51:51,973 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:51:51,973 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:51:59,825 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:51:59,862 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:52:00,002 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:52:00,851 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:52:00,983 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:52:02,288 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:53:05,483 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:53:05,498 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:53:05,498 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:53:05,498 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:53:21,513 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:53:21,513 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:53:21,513 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:53:21,528 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:53:29,151 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:53:29,198 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:53:29,354 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:53:30,281 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:53:30,408 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:53:32,237 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 18:53:32,278 - MiFrameWork Logs -INFO - Failed to save the screenshotD:\MiWorkspace\MiFrameWorksrc\test\resources\screenshots\testWelcomePageorg.apache.poi.hpsf.Date@14c01636.jpg (The system cannot find the path specified)
+2019-06-04 18:53:32,552 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:54:46,230 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:54:46,230 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:54:46,230 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:54:46,245 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:54:54,043 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:54:54,089 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:54:54,294 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:54:55,198 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:54:55,348 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:54:57,072 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 18:54:57,345 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:56:33,158 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:56:33,158 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:56:33,158 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:56:33,158 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:56:40,766 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:56:40,781 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:56:40,781 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:56:40,781 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:56:48,894 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:56:48,937 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:56:49,067 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:56:49,895 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:56:50,027 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:56:51,770 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 18:56:52,110 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:58:02,255 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:58:02,255 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:58:02,255 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:58:02,271 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:58:13,575 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:58:13,620 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:58:13,737 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:58:14,630 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:58:14,827 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:58:16,540 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 18:58:16,881 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 18:59:49,365 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 18:59:49,368 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:59:49,368 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 18:59:49,368 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 18:59:56,989 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 18:59:57,031 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 18:59:57,170 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 18:59:57,983 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 18:59:58,115 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 18:59:59,887 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 19:00:00,170 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:01:00,181 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:01:00,181 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:01:00,181 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:01:00,181 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:01:11,729 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:01:11,729 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:01:11,729 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:01:11,745 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:01:19,397 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:01:19,439 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:01:19,578 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:01:20,406 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:01:20,542 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:01:22,447 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 19:01:22,814 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:03:55,169 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:03:55,172 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:03:55,172 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:03:55,172 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:04:03,216 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:04:03,257 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:04:03,398 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:04:04,233 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:04:04,387 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:04:05,883 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:04:37,889 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:04:37,889 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:04:37,889 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:04:37,908 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:04:45,804 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:04:45,853 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:04:45,986 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:04:46,820 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:04:46,999 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:04:48,809 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:07:06,336 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:07:06,352 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:07:06,352 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:07:06,352 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:07:14,332 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:07:14,386 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:07:14,569 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:07:15,550 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:07:15,716 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:07:17,674 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:08:40,115 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:08:40,115 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:08:40,115 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:08:40,115 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:08:47,766 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:08:47,810 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:08:47,941 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:08:48,804 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:08:48,933 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:08:51,263 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:10:55,149 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:10:55,149 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:10:55,149 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:10:55,165 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:11:03,185 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:11:03,230 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:11:03,380 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:11:04,324 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:11:04,467 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:11:06,662 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:50:57,801 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:50:57,804 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:50:57,804 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:50:57,804 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:51:07,854 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:51:07,897 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:51:08,050 - MiFrameWork Logs -INFO - Entering the username in username/email textbox
+2019-06-04 19:51:08,929 - MiFrameWork Logs -INFO - Entering the password in password textbox
+2019-06-04 19:51:09,107 - MiFrameWork Logs -INFO - Clicking on signin button
+2019-06-04 19:51:10,966 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-04 19:52:01,746 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-04 19:52:01,749 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:52:01,750 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-04 19:52:01,753 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-04 19:52:09,478 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-04 19:52:09,523 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-04 19:52:10,379 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-04 19:52:10,693 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-05 11:59:20,939 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-05 11:59:20,948 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-05 11:59:20,948 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-05 11:59:20,948 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-05 11:59:42,673 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-05 11:59:42,889 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-05 11:59:44,242 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-05 11:59:44,690 - MiFrameWork Logs -INFO - Closing the browser
+2019-06-05 12:03:15,140 - MiFrameWork Logs -INFO - config.properties file loaded successfully
+2019-06-05 12:03:15,143 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-05 12:03:15,144 - MiFrameWork Logs -INFO - object.properties file loaded successfully
+2019-06-05 12:03:15,147 - MiFrameWork Logs -INFO - Launching Chrome Browser
+2019-06-05 12:03:22,901 - MiFrameWork Logs -INFO - Navigated to the UAT link
+2019-06-05 12:03:22,947 - MiFrameWork Logs -INFO - Clicking on customer login button
+2019-06-05 12:03:23,806 - MiFrameWork Logs -INFO - Copying the scrrenshot to the project folder
+2019-06-05 12:03:24,122 - MiFrameWork Logs -INFO - Closing the browser

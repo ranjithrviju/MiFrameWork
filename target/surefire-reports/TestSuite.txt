@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 23.403 s <<< FAILURE! - in TestSuite
+testWelcomePage(org.testcases.TestWelcomePage)  Time elapsed: 2.77 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [Smarts Prop] but found [Smart Prop],
+	expected [Smarts Prop] but found [Smart Prop]
+	at org.testcases.TestWelcomePage.testWelcomePage(TestWelcomePage.java:32)
+
+testWelcomePage(org.testcases.TestUrl)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [Smarts Prop] but found [Smart Prop]
+	at org.testcases.TestUrl.testWelcomePage(TestUrl.java:17)
+
