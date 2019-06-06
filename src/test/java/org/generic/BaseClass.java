@@ -1,5 +1,6 @@
 package org.generic;
 import java.io.FileInputStream;
+import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
@@ -57,7 +58,6 @@ public class BaseClass implements IConstants {
 		}
 		driver.manage().window().maximize();
 		driver.get(config.getProperty("url"));
-		test.log(Status.INFO	, "Navigate to UAT Link "+config.getProperty("url"));
 		log.info("Navigated to the UAT link");
 		driver.manage().timeouts().implicitlyWait(wait, TimeUnit.SECONDS);
 	}
@@ -91,6 +91,39 @@ public class BaseClass implements IConstants {
 		}
 		if(driver.findElements(by).size()>0) {
 			ele=driver.findElement(by);
+		}
+		return ele;
+	}
+	public static synchronized List<WebElement> getListOfElement(String locator) {
+		String locators=object.getProperty(locator);
+		String[] objects=locators.split("-", 2);
+		String locType=objects[0];
+		String locValue=objects[1];
+		List<WebElement> ele=null;
+		By by=null;
+		if(locType.equals("IDE")) {
+			try {
+				by=By.id(locValue);
+			} catch (NoSuchElementException e) {
+				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
+			}
+		}
+		else if(locType.equals("NAME")) {
+			try {
+				by=By.name(locValue);
+			} catch (NoSuchElementException e) {
+				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
+			}
+		}
+		else if(locType.equals("XPH")) {
+			try {
+				by=By.xpath(locValue);
+			} catch (NoSuchElementException e) {
+				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
+			}
+		}
+		if(driver.findElements(by).size()>0) {
+			ele=driver.findElements(by);
 		}
 		return ele;
 	}
