@@ -16,7 +16,6 @@ public class CustomListeners extends BaseClass implements ITestListener {
 	public void onTestSuccess(ITestResult result) {
 		test.log(Status.PASS, result.getName().toUpperCase()+" is PASSED");
 		extent.flush();
-
 	}
 
 	public void onTestFailure(ITestResult result) {
@@ -27,7 +26,7 @@ public class CustomListeners extends BaseClass implements ITestListener {
 			test.addScreenCaptureFromPath(ReportUtils.screenshotPath);
 			extent.flush();
 		} catch (IOException e) {
-			log.info("Failed to attach screenshot"+e.getMessage());
+			log.info("Failed to update report"+e.getMessage());
 		}
 	}
 
@@ -43,7 +42,7 @@ public class CustomListeners extends BaseClass implements ITestListener {
 	}
 
 	public void onFinish(ITestContext context) {
-		extent.removeTest(test);
+
 	}
 
 }

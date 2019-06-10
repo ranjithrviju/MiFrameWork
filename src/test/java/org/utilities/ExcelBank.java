@@ -21,7 +21,7 @@ public class ExcelBank extends BaseClass{
 			fis=new FileInputStream(System.getProperty("user.dir")+excel.getProperty("path"));
 			wb = WorkbookFactory.create(fis);
 		} catch (Exception e) {
-			log.error("Failed to load the file from the path"+e.getLocalizedMessage());
+			log.error("Failed to load the file from the path"+e.getMessage());
 		}
 		return wb;
 	}
@@ -51,7 +51,6 @@ public class ExcelBank extends BaseClass{
 		}
 		return columnCount;
 	}
-
 	public static String getCellValue(String sheetName, String colName,int rowNo) {
 		int colNo=0;
 		String cellValue =null;
@@ -64,6 +63,22 @@ public class ExcelBank extends BaseClass{
 				}
 			}
 			cell=sh.getRow(rowNo).getCell(colNo);
+			if(cell.getCellType()==CellType.STRING) {
+				cellValue = cell.getStringCellValue();
+			}
+			else if(cell.getCellType()==CellType.NUMERIC) {
+				cellValue=String.valueOf((int)cell.getNumericCellValue());
+			}
+		} catch (Exception e) {
+			log.error("failed to get the data from excel file"+e.getMessage());
+		}
+		return cellValue;
+	}
+	public static String getCellValue(String sheetName, int rowNo,int ColNo) {
+		String cellValue =null;
+		try {
+			sheet = getSheet(sheetName);
+			cell = sheet.getRow(rowNo).getCell(ColNo);
 			if(cell.getCellType()==CellType.STRING) {
 				cellValue = cell.getStringCellValue();
 			}
