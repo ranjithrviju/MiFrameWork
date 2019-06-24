@@ -6,12 +6,18 @@ import org.generic.IConstants;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.testng.IRetryAnalyzer;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.google.common.io.Files;
 
-public class ReportUtils extends BaseClass implements IConstants{
+//EXTENT REPORT
+public class TestUtils extends BaseClass implements IConstants{
 	private static ExtentReports extent;
 	private static ExtentHtmlReporter rep;
 	public static String screenshotPath;
@@ -28,13 +34,13 @@ public class ReportUtils extends BaseClass implements IConstants{
 		return extent;
 	}
 
+	//TO CAPTURE SCREENSHOT
 	public static void captureScreenshot(WebDriver driver, String testCaseName) {
 		String date_time = new Date().toString().replaceAll(":", "_").replaceAll(" ", "_");
-		System.out.println(date_time);
-		screenshotPath=System.getProperty("user.dir")+"\\src\\test\\resources\\screenshots\\"+testCaseName.toUpperCase()+date_time+".jpg";
+		screenshotPath=System.getProperty("user.dir")+"\\src\\test\\resources\\screenshots\\"+testCaseName.toUpperCase()+date_time+".png";
 		try {
 			TakesScreenshot ss = (TakesScreenshot) driver;
-			File srcFile = ss.getScreenshotAs(OutputType.FILE);
+			File srcFile = ss.getScreenshotAs(OutputType.FILE);     
 			log.info("Copying the scrrenshot to the project folder");
 			Files.copy(srcFile, new File(screenshotPath));
 		} catch (Exception e) {

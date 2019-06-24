@@ -1,13 +1,21 @@
 package org.listeners;
 import java.io.IOException;
 import org.generic.BaseClass;
+import org.testng.IRetryAnalyzer;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.utilities.ReportUtils;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.utilities.TestUtils;
+
 import com.aventstack.extentreports.Status;
 
 public class CustomListeners extends BaseClass implements ITestListener {
+
+	private int retryCount = 0;
+	private static final int maxRetryCount = 3;
+
 
 	public void onTestStart(ITestResult result) {
 		test=extent.createTest(result.getName().toUpperCase());
@@ -20,10 +28,9 @@ public class CustomListeners extends BaseClass implements ITestListener {
 
 	public void onTestFailure(ITestResult result) {
 		try {
-			ReportUtils.captureScreenshot(driver, result.getMethod().getMethodName());
-//			test=extent.createTest(result.getName());
+			TestUtils.captureScreenshot(driver, result.getMethod().getMethodName());
 			test.log(Status.FAIL, result.getName().toUpperCase()+" is FAILED");
-			test.addScreenCaptureFromPath(ReportUtils.screenshotPath);
+			test.addScreenCaptureFromPath(TestUtils.screenshotPath);
 			extent.flush();
 		} catch (IOException e) {
 			log.info("Failed to update report"+e.getMessage());
@@ -44,5 +51,4 @@ public class CustomListeners extends BaseClass implements ITestListener {
 	public void onFinish(ITestContext context) {
 
 	}
-
 }
