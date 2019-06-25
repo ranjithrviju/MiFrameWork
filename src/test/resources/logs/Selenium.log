@@ -1737,3 +1737,1490 @@ Session ID: a99f521a8daeb296ee1f0d1fcf9b26e5
 2019-06-21 19:30:30,508 [main] INFO MiFrameWork Logs - Click on SignInButton
 2019-06-21 19:30:51,042 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
 2019-06-21 19:30:51,461 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 13:32:52,760 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 13:32:52,773 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:32:52,773 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:33:35,812 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 13:33:35,812 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:33:35,812 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:34:10,949 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 13:34:10,949 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:34:10,949 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:34:59,409 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 13:34:59,425 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:34:59,425 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:35:40,225 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:35:40,225 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:36:49,877 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:36:49,877 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:37:33,759 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 13:37:33,759 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 13:37:33,759 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 13:38:14,458 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 13:38:14,472 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 13:38:14,472 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 13:38:14,472 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 13:38:36,910 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 13:38:37,707 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 13:40:40,577 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 13:40:40,580 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 13:40:40,580 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 13:40:40,587 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 13:40:46,268 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 13:40:47,099 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:24:38,912 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:24:38,916 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:24:38,917 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:24:38,928 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:24:49,958 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:24:49,981 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:25:40,590 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:25:40,594 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:25:40,594 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:25:40,605 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:25:47,656 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:25:47,677 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:27:13,949 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:27:13,952 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:27:13,953 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:27:13,960 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:27:21,044 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:27:21,071 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:28:07,594 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:28:07,597 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:28:07,598 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:28:07,604 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:28:15,227 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:28:15,752 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:29:13,467 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:29:13,470 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:29:13,470 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:29:13,477 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:29:20,112 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:29:20,593 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:30:44,794 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:30:44,798 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:30:44,798 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:30:44,805 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:30:51,232 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:30:51,684 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:33:19,973 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:33:19,976 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:33:19,976 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:33:19,983 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:33:26,125 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:33:26,613 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:33:59,624 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:33:59,627 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:33:59,628 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:33:59,634 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:34:06,287 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:34:06,757 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:37:26,254 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:37:26,258 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:37:26,259 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:37:26,265 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:37:33,605 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:37:34,102 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:39:34,887 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:39:34,890 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:39:34,891 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:39:34,897 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:39:41,263 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:39:41,704 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:40:34,961 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:40:34,964 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:40:34,965 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:40:34,972 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:40:41,129 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:40:41,608 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:41:11,982 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:41:11,985 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:41:11,985 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:41:11,992 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:41:18,822 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:41:19,269 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:42:47,540 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:42:47,544 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:42:47,544 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:42:47,550 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:42:54,222 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:43:16,303 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:43:16,308 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:43:16,308 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:43:16,317 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:43:23,229 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:44:02,000 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:44:02,003 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:44:02,004 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:44:02,010 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:44:07,607 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:44:44,905 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:44:44,909 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:44:44,909 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:44:44,916 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:44:50,466 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:44:50,971 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:47:24,439 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:47:24,442 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:47:24,443 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:47:24,449 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 15:47:32,083 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 15:47:32,603 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 15:51:12,556 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 15:51:12,560 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 15:51:12,560 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 15:52:00,565 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:52:00,572 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:52:00,573 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:53:07,392 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:53:07,395 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:53:07,396 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:53:46,559 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 15:53:46,562 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:53:46,562 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 15:54:42,260 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathnull
+2019-06-24 15:54:42,263 [main] ERROR MiFrameWork Logs - Sheet name does not exixtnull
+2019-06-24 15:54:42,263 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 16:11:03,871 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 16:11:03,875 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:11:03,875 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:11:03,882 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 16:11:12,346 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 16:11:12,749 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 16:11:27,540 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 16:11:27,543 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:11:27,543 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:11:27,550 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 16:11:35,787 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 16:11:36,321 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 16:13:35,325 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 16:13:35,328 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:13:35,329 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:13:35,335 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 16:13:43,660 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 16:13:44,097 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 16:14:41,236 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 16:14:41,239 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:14:41,239 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 16:14:41,247 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 16:14:49,184 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 16:14:49,644 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:27:08,664 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:27:08,700 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:27:08,700 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:27:08,711 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:27:20,362 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:27:21,040 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:29:16,142 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:29:16,145 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:29:16,145 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:29:16,151 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:29:22,387 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:29:23,407 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 17:29:23,442 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 17:29:23,451 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:32:07,203 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:32:07,207 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:32:07,208 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:32:07,214 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:32:13,226 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:32:13,821 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 17:32:13,856 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 17:32:13,863 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:33:15,009 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:33:15,012 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:33:15,013 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:33:15,019 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:33:21,073 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:33:21,662 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 17:33:21,690 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 17:33:21,698 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:34:34,012 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:34:34,015 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:34:34,015 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:34:34,021 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:34:40,023 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:34:40,732 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 17:34:40,770 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 17:34:40,780 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:36:26,398 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:36:26,401 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:36:26,402 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:36:26,408 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:36:32,582 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:36:33,882 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 17:36:33,917 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:39:29,164 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:39:29,168 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:39:29,168 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:39:29,174 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:39:35,365 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:39:36,549 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 17:39:36,558 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:40:59,217 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:40:59,221 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:40:59,221 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:40:59,229 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:41:04,998 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:41:05,500 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:43:27,334 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:43:27,337 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:43:27,338 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:43:27,346 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:43:33,676 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:43:34,156 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:44:05,217 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:44:05,220 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:44:05,220 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:44:05,226 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:44:11,115 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:44:11,617 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:44:46,034 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:44:46,037 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:44:46,038 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:44:46,044 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:44:52,029 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:44:52,501 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:47:59,013 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:47:59,017 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:47:59,017 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:47:59,024 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:48:05,027 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:48:05,491 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 17:51:19,299 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:51:19,302 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:51:19,302 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:51:19,308 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:51:25,216 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:52:02,309 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:52:02,312 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:52:02,312 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:52:02,319 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:52:08,237 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 17:53:16,840 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:53:16,845 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:53:16,846 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:53:56,944 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:53:56,948 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:53:56,948 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:59:34,428 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 17:59:34,433 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:59:34,435 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 17:59:34,448 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 17:59:41,571 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:01:26,262 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:01:26,266 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:01:26,266 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:01:26,274 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:01:32,256 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:01:34,049 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:03:34,091 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:03:34,095 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:03:34,095 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:03:34,103 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:03:40,311 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:03:41,400 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:03:41,544 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:03:41,661 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:03:41,795 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:03:46,786 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:03:46,800 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+2019-06-24 18:03:47,200 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:03:47,201 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:03:47,210 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:03:47,211 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:03:47,220 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:03:47,222 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:03:47,227 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:03:47,227 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:03:47,246 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+2019-06-24 18:03:47,331 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:03:47,332 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:03:47,336 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:03:47,337 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:03:47,340 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:03:47,341 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:03:47,344 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:03:47,345 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:03:47,353 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61371}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: b4c8e63a7bf82d326e2ccb3120c07917
+2019-06-24 18:03:47,424 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:05:17,784 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:05:17,787 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:05:17,788 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:05:17,795 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:05:23,834 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:05:25,048 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:05:25,216 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:05:25,353 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:05:25,498 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:05:27,377 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:05:27,829 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 18:05:43,425 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:05:43,425 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:05:53,502 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:05:53,503 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:06:03,551 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:06:03,551 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:06:16,353 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:06:16,357 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:06:16,358 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:06:16,366 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:06:22,675 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:06:23,578 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:06:23,704 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:06:23,822 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:06:23,925 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:06:25,296 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:06:32,009 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:06:38,071 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:06:48,413 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:06:48,413 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:06:58,440 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:06:58,441 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:07:11,208 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:07:11,208 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:08:43,992 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:08:43,995 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:08:43,996 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:08:44,002 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:08:50,473 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:08:51,419 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:08:51,557 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:08:51,677 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:08:51,815 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:08:53,177 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:08:59,892 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:09:07,750 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:09:18,060 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:09:18,061 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:09:28,103 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:09:28,104 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:09:38,153 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:09:38,154 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:09:48,218 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    null
+2019-06-24 18:09:48,219 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:09:58,624 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 18:10:08,751 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:10:08,752 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:10:18,826 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:10:18,829 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:10:24,142 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:10:24,142 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:10:24,154 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61653}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7eb40fb220ac03eb2305a450ea6a7aa8
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:10:24,154 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:10:24,171 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61653}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 7eb40fb220ac03eb2305a450ea6a7aa8
+2019-06-24 18:10:24,255 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:10:51,271 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:10:51,274 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:10:51,275 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:10:51,282 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:10:57,282 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:10:58,193 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:10:58,323 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:10:58,426 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:10:58,520 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:10:59,897 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:11:07,347 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:11:11,179 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:11:21,695 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:11:21,697 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:11:24,330 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:11:24,330 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:11:24,336 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:11:24,337 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:11:24,342 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:11:24,343 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:11:24,354 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+2019-06-24 18:11:24,430 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:11:24,431 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:11:24,436 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:11:24,436 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:11:24,440 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:11:24,441 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:11:24,444 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:11:24,445 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:11:24,457 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: ad63ab74172af89226c97cbc7cb179ba
+2019-06-24 18:11:24,547 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:13:04,564 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:13:04,567 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:13:04,568 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:13:04,574 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:13:10,439 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:13:11,332 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:13:11,470 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:13:11,573 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:13:11,682 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:13:12,977 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:13:23,394 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 18:13:23,687 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    element click intercepted: Element <a href="../MasterPages/#" id="divCustomerLogin" onclick="return false;" style="display: block;" class="customer btn-cust-login">...</a> is not clickable at point (539, 394). Other element would receive the click: <div class="modal fade in" id="userModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" data-backdrop="static" data-keyboard="false" style="display: block;">...</div>
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+2019-06-24 18:13:23,688 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:13:23,706 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    Keys to send should be a not null CharSequence
+2019-06-24 18:13:23,706 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:13:23,721 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    Keys to send should be a not null CharSequence
+2019-06-24 18:13:23,722 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:13:29,281 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:13:29,291 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+2019-06-24 18:13:29,368 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:13:29,369 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:13:29,375 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:13:29,376 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:13:29,379 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:13:29,380 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:13:29,409 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:13:29,410 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:13:29,417 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62064}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 6f2a4ed9ab4cf6d049da242340096dd4
+2019-06-24 18:13:29,525 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:13:35,256 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:13:35,259 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:13:35,260 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:13:35,266 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:13:41,244 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:13:42,128 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:13:42,256 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:13:42,357 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:13:42,462 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:13:43,874 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:13:51,190 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:13:57,123 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:14:07,421 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:14:07,421 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:14:09,673 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:14:09,674 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:14:09,680 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:14:09,681 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:14:09,687 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:14:09,688 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:14:09,701 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+2019-06-24 18:14:09,820 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:14:09,821 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:14:09,825 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:14:09,825 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:14:09,830 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:14:09,831 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:14:09,838 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:14:09,839 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:14:09,851 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62138}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 8ea5f5bc830bfb33037616abbcc8b6dd
+2019-06-24 18:14:09,902 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:15:29,544 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:15:29,547 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:15:29,547 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:15:29,554 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:15:35,625 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:15:36,649 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:15:36,797 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:15:36,919 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:15:37,052 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:15:38,459 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:15:45,456 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:15:49,830 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:16:00,172 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:16:00,173 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:16:10,228 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:16:10,229 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:16:13,920 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:16:13,920 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:16:13,925 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:16:13,926 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:16:13,940 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+2019-06-24 18:16:14,017 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:16:14,019 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:16:14,023 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:16:14,023 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:16:14,029 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:16:14,030 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:16:14,036 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:16:14,037 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:16:14,044 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: dfb78e04f463f92e1c3b159c2c2e964c
+2019-06-24 18:16:14,133 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:16:38,026 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:16:38,029 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:16:38,029 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:16:38,035 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:16:44,282 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:16:45,081 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 18:16:45,127 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 18:16:45,143 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:17:22,330 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:17:22,333 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:17:22,334 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:17:22,340 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:17:28,362 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:17:29,089 [main] ERROR MiFrameWork Logs - Error finding rowsnull
+2019-06-24 18:17:29,125 [main] ERROR MiFrameWork Logs - Error finding columnsnull
+2019-06-24 18:17:29,137 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:18:53,611 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:18:53,614 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:18:53,614 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:18:53,621 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:19:00,046 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:19:01,747 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:19:21,708 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:19:21,711 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:19:21,712 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:19:21,718 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:19:27,636 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:19:28,543 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:19:28,681 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:19:28,796 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:19:28,896 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:19:30,317 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:19:37,653 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:19:41,475 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:19:51,781 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:19:51,782 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:20:01,835 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:20:01,836 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:20:11,855 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:20:11,856 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:20:11,881 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    null
+2019-06-24 18:20:11,881 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:20:11,902 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+2019-06-24 18:20:12,000 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+*** Element info: {Using=id, value=divCustomerLogin}
+2019-06-24 18:20:12,003 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:20:12,007 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtUserName']}
+2019-06-24 18:20:12,008 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:20:12,012 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_txtPassword']}
+2019-06-24 18:20:12,013 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:20:12,021 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+*** Element info: {Using=xpath, value=//input[@id='ContentPlaceHolder1_btnSignin']}
+2019-06-24 18:20:12,021 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:20:12,031 [main] INFO MiFrameWork Logs - Failed to save the screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\ranjith.r\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62747}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 80506a70c397e47f9114a140d241c2a4
+2019-06-24 18:20:12,165 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:22:34,433 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:22:34,437 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:22:34,437 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:22:34,443 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:22:40,441 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:22:41,369 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:22:41,503 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:22:41,605 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:22:41,728 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:22:43,138 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:22:51,054 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:22:58,435 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:23:08,818 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    null
+2019-06-24 18:23:08,819 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:23:18,891 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    null
+2019-06-24 18:23:18,892 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:23:28,938 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    null
+2019-06-24 18:23:28,939 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:24:36,459 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:24:36,462 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:24:36,463 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:24:36,469 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:24:42,697 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:24:43,508 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:24:43,633 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:24:43,746 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:24:43,844 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:24:45,342 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:24:52,632 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:24:56,474 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:24:56,770 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:25:08,214 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:25:08,220 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:25:08,220 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:25:08,231 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:25:14,364 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:25:15,812 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:25:16,528 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:25:21,908 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:25:22,165 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:25:22,309 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:25:22,426 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:25:22,567 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:25:23,914 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:25:31,038 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:25:34,794 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:25:34,895 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:26:50,813 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:26:50,816 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:26:50,817 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:26:50,825 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:26:56,655 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:26:58,101 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:26:58,814 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:27:04,164 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:27:04,454 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:27:04,592 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:27:04,697 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:27:04,793 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:27:06,187 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:27:16,596 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-24 18:27:16,666 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:27:24,518 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 18:27:24,521 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 18:27:24,522 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 18:27:24,529 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:27:30,450 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:27:31,941 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 18:27:32,670 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 18:27:38,142 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 18:27:38,438 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 18:27:38,610 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 18:27:38,742 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 18:27:38,870 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 18:27:40,335 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 18:27:47,643 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 18:27:53,946 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 18:27:54,056 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-24 19:54:37,733 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-24 19:54:37,737 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-24 19:54:37,737 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-24 19:54:37,744 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-24 19:54:44,963 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-24 19:54:45,909 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-24 19:54:46,051 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-24 19:54:46,172 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-24 19:54:46,309 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-24 19:54:47,664 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-24 19:54:55,069 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-24 19:54:58,860 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-24 19:54:59,153 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:10:45,684 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:10:45,722 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:10:45,723 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:10:45,732 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:10:53,265 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:10:54,441 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:10:55,289 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:10:55,289 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:10:55,290 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:10:55,290 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:10:55,291 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:10:55,291 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:10:55,292 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:10:55,292 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:10:55,341 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:10:55,635 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:11:27,341 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:11:27,345 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:11:27,345 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:11:27,350 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:11:33,374 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:11:34,611 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:11:34,789 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:11:34,927 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:11:35,078 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:11:36,370 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:11:43,380 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:11:47,790 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:11:48,112 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:15:33,774 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:15:33,780 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:15:33,780 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:15:33,791 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:15:40,309 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:15:41,058 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:15:46,959 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:15:47,598 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:15:47,764 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:15:47,894 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:15:48,026 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:15:49,341 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:15:57,200 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:16:04,067 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:16:04,370 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:19:27,594 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:19:27,598 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:19:27,598 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:19:27,603 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:19:35,484 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:19:36,429 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:19:42,021 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:19:42,541 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:19:42,685 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:19:42,792 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:19:42,919 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:19:44,290 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:19:51,473 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:19:59,414 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:19:59,726 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:21:51,470 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:21:51,473 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:21:51,473 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:21:51,478 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:21:57,444 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:23:03,903 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:23:03,907 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:23:03,907 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:23:03,911 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:23:09,937 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:25:40,713 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:25:40,716 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:25:40,716 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:25:40,721 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:25:47,700 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:26:52,580 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:26:52,583 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:26:52,584 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:26:52,589 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:26:58,688 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:28:32,982 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:28:32,986 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:28:32,986 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:28:32,994 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:28:39,479 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:29:10,366 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:29:10,369 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:29:10,370 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:29:10,374 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:29:16,275 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:29:54,514 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:29:54,517 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:29:54,518 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:29:54,522 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:30:01,437 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:30:38,598 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:30:38,601 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:30:38,602 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:30:38,606 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:30:44,584 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:30:45,634 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:30:46,410 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:30:46,412 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:30:46,413 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:30:46,414 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:30:46,658 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:31:31,273 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:31:31,276 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:31:31,277 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:31:31,282 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:31:37,189 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:31:38,456 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:31:38,623 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:31:38,738 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:31:38,864 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:31:40,207 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:31:47,153 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:31:51,369 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:31:51,667 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:32:13,199 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:32:13,202 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:32:13,203 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:32:13,208 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:32:19,230 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:32:20,213 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:32:20,997 [main] INFO MiFrameWork Logs - Failed to Click on  CustomerLoginButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:32:20,998 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:32:20,998 [main] INFO MiFrameWork Logs - Failed to enter text in UsernameTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:32:20,999 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:32:20,999 [main] INFO MiFrameWork Logs - Failed to enter text in PasswordTextBox :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:32:20,999 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:32:21,000 [main] INFO MiFrameWork Logs - Failed to Click on  SignInButton :    Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:32:21,000 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:32:21,009 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 15:32:21,252 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:36:10,168 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:36:10,172 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:36:10,172 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:36:10,177 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:36:17,389 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:36:18,600 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:38:38,220 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:38:38,224 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:38:38,225 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:38:38,232 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:38:44,400 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:38:45,632 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:38:46,402 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:38:51,724 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:38:52,561 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:38:52,732 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:38:52,868 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:38:52,982 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:38:54,395 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:39:04,825 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-25 15:39:05,086 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:39:59,078 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:39:59,081 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:39:59,081 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:39:59,086 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:40:05,133 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:40:06,231 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:40:06,369 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:40:06,489 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:40:06,592 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:40:07,931 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:40:15,079 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:40:19,322 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:40:19,638 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:40:35,110 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 15:40:35,113 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 15:40:35,113 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 15:40:35,119 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:40:41,568 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:40:42,550 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 15:40:43,325 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 15:40:48,694 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 15:40:49,265 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 15:40:49,402 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 15:40:49,598 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 15:40:49,685 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 15:40:51,074 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 15:40:57,788 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 15:41:04,708 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 15:41:04,991 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:17:56,365 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:17:56,369 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:17:56,369 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:17:56,375 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:18:06,937 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:18:07,965 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:18:08,711 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:18:14,824 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:18:15,579 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 16:18:15,757 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 16:18:15,877 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 16:18:16,056 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 16:18:17,426 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 16:18:27,896 [main] INFO MiFrameWork Logs - Copying the scrrenshot to the project folder
+2019-06-25 16:18:28,139 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:31:11,916 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:31:11,919 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:31:11,920 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:31:11,925 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:31:18,906 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:31:20,084 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:31:20,858 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:31:26,128 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:31:26,752 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 16:31:26,901 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 16:31:27,020 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 16:31:27,188 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 16:31:28,443 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 16:31:35,689 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 16:31:40,580 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 16:31:40,887 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:33:23,230 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:33:23,233 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:33:23,234 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:33:23,240 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:33:29,454 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:33:30,637 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:33:31,418 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:33:54,480 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:33:54,483 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:33:54,483 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:33:54,489 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:34:00,760 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:34:01,756 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:34:02,541 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:36:56,518 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:36:56,523 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:36:56,524 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:36:56,534 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:37:02,643 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:37:03,654 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:37:04,447 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:37:55,537 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:37:55,541 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:37:55,542 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:37:55,547 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:38:01,656 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:38:02,635 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:38:03,430 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:42:08,832 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:42:08,836 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:42:08,836 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:42:08,841 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:42:14,943 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:42:16,341 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:42:17,119 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:43:18,889 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:43:18,893 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:43:18,894 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:43:18,899 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:43:25,031 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:43:26,020 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:43:26,789 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:44:26,765 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:44:26,768 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:44:26,768 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:44:26,772 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:44:32,973 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:44:34,031 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 16:44:34,160 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 16:44:34,275 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 16:44:34,374 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 16:44:35,709 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 16:44:43,460 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 16:44:51,932 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 16:44:52,297 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:45:14,688 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:45:14,692 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:45:14,692 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:45:14,697 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:45:20,696 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:45:21,698 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 16:45:22,512 [main] INFO MiFrameWork Logs - Failed to save the screenshotSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SLKGROUPGB-L107', ip: '10.254.35.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+2019-06-25 16:46:17,367 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 16:46:17,371 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 16:46:17,371 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 16:46:17,376 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 16:46:23,391 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 16:46:24,378 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 17:00:16,688 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 17:00:16,692 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 17:00:16,693 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 17:00:16,697 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 17:00:23,547 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 17:00:24,613 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 17:00:24,744 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 17:00:24,851 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 17:00:24,955 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 17:00:26,486 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 17:00:33,149 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 17:00:39,538 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 17:00:39,826 [main] INFO MiFrameWork Logs - Closing the browser
+2019-06-25 17:01:39,709 [main] INFO MiFrameWork Logs - config.properties file loaded successfully
+2019-06-25 17:01:39,712 [main] INFO MiFrameWork Logs - object.properties file loaded successfully
+2019-06-25 17:01:39,713 [main] INFO MiFrameWork Logs - excel.properties file loaded successfully
+2019-06-25 17:01:39,717 [main] INFO MiFrameWork Logs - Launching Chrome Browser
+2019-06-25 17:01:45,613 [main] INFO MiFrameWork Logs - Navigated to the UAT link
+2019-06-25 17:01:46,658 [main] INFO MiFrameWork Logs - Click on CustomerLoginButton
+2019-06-25 17:01:46,785 [main] INFO MiFrameWork Logs - Entered Username in UsernameTextBox
+2019-06-25 17:01:46,900 [main] INFO MiFrameWork Logs - Entered Password in PasswordTextBox
+2019-06-25 17:01:47,000 [main] INFO MiFrameWork Logs - Click on SignInButton
+2019-06-25 17:01:48,374 [main] INFO MiFrameWork Logs - Click on ContinueButton
+2019-06-25 17:01:55,137 [main] INFO MiFrameWork Logs - Mouse Hovering on Reports&AnalyticsMenu
+2019-06-25 17:02:00,527 [main] INFO MiFrameWork Logs - Click on MasterReportSubMenu
+2019-06-25 17:02:00,980 [main] ERROR MiFrameWork Logs - Failed to load the file from the pathThe supplied file was empty (zero bytes long)
+2019-06-25 17:02:01,454 [main] INFO MiFrameWork Logs - Closing the browser

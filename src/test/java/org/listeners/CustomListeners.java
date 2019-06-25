@@ -1,10 +1,13 @@
 package org.listeners;
 import java.io.IOException;
 import org.generic.BaseClass;
+import org.testng.IClassListener;
 import org.testng.IRetryAnalyzer;
+import org.testng.ITestClass;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.utilities.TestUtils;
@@ -12,10 +15,6 @@ import org.utilities.TestUtils;
 import com.aventstack.extentreports.Status;
 
 public class CustomListeners extends BaseClass implements ITestListener {
-
-	private int retryCount = 0;
-	private static final int maxRetryCount = 3;
-
 
 	public void onTestStart(ITestResult result) {
 		test=extent.createTest(result.getName().toUpperCase());

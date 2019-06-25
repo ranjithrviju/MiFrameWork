@@ -1,5 +1,6 @@
 package org.generic;
 import java.io.FileInputStream;
+import java.lang.reflect.Method;
 import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
@@ -9,9 +10,13 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.ITestResult;
+import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.utilities.TestUtils;
 
 import com.aventstack.extentreports.ExtentReports;
@@ -25,7 +30,7 @@ public class BaseClass implements IConstants {
 	public static Logger log=Logger.getLogger("MiFrameWork Logs");
 	public static ExtentReports extent=TestUtils.getExtentReport();
 	public static ExtentTest test;
-	@BeforeSuite
+	@BeforeTest
 	public static void initialize() {
 		try {
 			config=new Properties();
@@ -44,7 +49,7 @@ public class BaseClass implements IConstants {
 		try {
 			excel=new Properties();
 			excel.load(new FileInputStream(excelPath));
-			log.info("object.properties file loaded successfully");
+			log.info("excel.properties file loaded successfully");
 		} catch (Exception e) {
 			log.error("Failed to load excel.properties"+e.getMessage());
 		}
@@ -60,6 +65,25 @@ public class BaseClass implements IConstants {
 		driver.get(config.getProperty("url"));
 		log.info("Navigated to the UAT link");
 		driver.manage().timeouts().implicitlyWait(wait, TimeUnit.SECONDS);
+	}
+	@BeforeMethod
+	public static void checkRunMode(Method method){
+		System.out.println("Before Method");
+		String testname = method.getName();
+		System.out.println(testname);
+		String sheetName=testname.substring(testname.indexOf("_")+1)+"_TestCase";
+		System.out.println(TestUtils.isTestCaseRunnable(sheetName, testname));
+		if(TestUtils.isTestCaseRunnable(sheetName, testname)==false) {
+			closebrowser();
+			throw new SkipException("Skipped the test case "+testname+" as the RunMode is No");
+		}
+	}
+	
+	@AfterMethod
+	public static void updateResult(ITestResult result) {
+		String testCaseName = result.getName();
+		String	sheetName =testCaseName.substring(testCaseName.indexOf("_")+1)+"_TestCase";
+		TestUtils.reportStatus(testCaseName, sheetName, "Pass");
 	}
 	public static synchronized WebElement getElement(String locator) {
 		String locators=object.getProperty(locator);
