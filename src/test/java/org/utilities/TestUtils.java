@@ -1,13 +1,18 @@
 package org.utilities;
 import java.io.File;
+import java.io.FileInputStream;
 import java.lang.reflect.Method;
 import java.util.Date;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.CellType;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.generic.BaseClass;
 import org.generic.IConstants;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.testng.ITestResult;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import com.aventstack.extentreports.ExtentReports;
@@ -20,7 +25,7 @@ public class TestUtils extends BaseClass implements IConstants{
 	private static ExtentReports extent;
 	private static ExtentHtmlReporter rep;
 	public static String screenshotPath;
-	
+
 	public static ExtentReports getExtentReport() {
 		extent=new ExtentReports();
 		rep=new ExtentHtmlReporter(extentPath);
@@ -40,13 +45,9 @@ public class TestUtils extends BaseClass implements IConstants{
 		String[] sheetName = m.getName().split("_", 2);
 		String name=sheetName[1];
 		String sheet = name+"_TestData";
-		System.out.println("Sheet in DataProvider"+sheet);
 		int rows = ExcelBank.getRowCount(sheet);
-		System.out.println("DataProvider rows="+rows);
 		int cols = ExcelBank.getColumnCount(sheet);
-		System.out.println("DataProvider Columns="+cols);
 		Object[][] data=new Object[rows-1][cols];
-		System.out.println(sheet);
 		for (int i = 1; i <= rows-1; i++) {
 			for (int j = 0; j < cols; j++) {
 				data[i-1][j]=ExcelBank.getCellValue(sheet, i, j);
@@ -54,7 +55,7 @@ public class TestUtils extends BaseClass implements IConstants{
 		}
 		return data;
 	}
-	
+
 	//TO CAPTURE SCREENSHOT
 	public static void captureScreenshot(WebDriver driver, String testCaseName) {
 		String date_time = new Date().toString().replaceAll(":", "_").replaceAll(" ", "_");
@@ -72,22 +73,48 @@ public class TestUtils extends BaseClass implements IConstants{
 	public static boolean isTestCaseRunnable(String sheetName, String testCaseName) {
 		boolean isRunnable=false;
 		String sheet=sheetName;
-		for (int i = 1; i < ExcelBank.getRowCount(sheet)-1; i++) {
+		System.out.println("isTestCaseRunnable : "+sheet);
+		for (int i = 1; i < ExcelBank.getRowCount(sheet); i++) {
 			if(ExcelBank.getCellValue(sheet, "TestCaseID", i).equalsIgnoreCase(testCaseName)) {
-				if(ExcelBank.getCellValue(sheet, "RunMode", i).equalsIgnoreCase("YES"))
+				if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("YES")) {
 					isRunnable=true;
-				else if(ExcelBank.getCellValue(sheet, "RunMode", i).equalsIgnoreCase("NO"))
+				}
+
+				else if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("NO"))
 					isRunnable=false;
 			}
 		}
 		return isRunnable;
 	}
-	
-public static void reportStatus( String testCaseName,String sheetName,String status ) {
-		for (int i = 0; i < ExcelBank.getRowCount(sheetName); i++) {
-			if(ExcelBank.getCellValue(sheetName, "TestCaseID",i).equalsIgnoreCase(testCaseName)) {
-				ExcelBank.setCellValue(sheetName, "Status", i, status);
+
+	public static String fromExcel(String sheetName, int colNo,int rowNo) {
+		String cellValue=null;
+		try {
+			FileInputStream fis = new FileInputStream(excel.getProperty("path"));
+			Workbook excel = WorkbookFactory.create(fis);
+			Sheet sheet = excel.getSheet(sheetName);
+			Cell cell = sheet.getRow(rowNo).getCell(colNo);
+			if(cell.getCellType()==CellType.STRING) {
+				cellValue = cell.getStringCellValue();
 			}
+			else if(cell.getCellType()==CellType.NUMERIC) {
+				cellValue=String.valueOf((int)cell.getNumericCellValue());
+			}
+		} catch (Exception e) {
+			log.error("failed to get the data from excel file"+e.getMessage());
+		}
+		return cellValue;
+	}
+
+	public static void setTestResultExcel(String sheetName,String testCaseName,String data) {
+		try {
+			for (int i = 0; i < ExcelBank.getRowCount(sheetName); i++) {
+				if(ExcelBank.getCellValue(sheetName, "TestCaseID", i).equalsIgnoreCase(testCaseName)) {
+					ExcelBank.setCellValue(sheetName, "Status", i, data);
+				}
+			}
+		}catch (Exception e) {
+			log.error("failed to save the data in excel file : "+e.getMessage());
 		}
 	}
 }

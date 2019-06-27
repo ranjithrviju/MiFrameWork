@@ -21,7 +21,7 @@ public class ExcelBank extends BaseClass{
 			fis=new FileInputStream(System.getProperty("user.dir")+excel.getProperty("path"));
 			wb = WorkbookFactory.create(fis);
 		} catch (Exception e) {
-			log.error("Failed to load the file from the path"+e.getMessage());
+			log.error("Failed to load the file from the path : "+e.getMessage());
 		}
 		return wb;
 	}
@@ -109,6 +109,7 @@ public class ExcelBank extends BaseClass{
 				cell = row.getCell(colNo);
 			}
 			cell.setCellValue(data);
+			fis.close();
 			fos=new FileOutputStream(System.getProperty("user.dir")+excel.getProperty("path"));
 			getWorkbook().write(fos);
 			fos.close();
