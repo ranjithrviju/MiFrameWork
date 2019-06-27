@@ -7,6 +7,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.apache.poi.util.IOUtils;
 import org.generic.BaseClass;
 
 public class ExcelBank extends BaseClass{
@@ -22,6 +23,7 @@ public class ExcelBank extends BaseClass{
 			wb = WorkbookFactory.create(fis);
 		} catch (Exception e) {
 			log.error("Failed to load the file from the path : "+e.getMessage());
+			
 		}
 		return wb;
 	}
@@ -88,12 +90,14 @@ public class ExcelBank extends BaseClass{
 		} catch (Exception e) {
 			log.error("failed to get the data from excel file"+e.getMessage());
 		}
+		
 		return cellValue;
 	}
 	public static boolean setCellValue(String sheetName, String colName,int rowNo,String data) {
 		int colNo=0;
 		try {
-			sheet = getWorkbook().getSheet(sheetName);
+			 wb = getWorkbook();
+			sheet = wb.getSheet(sheetName);
 			Row firstRow = sheet.getRow(0);
 			for (int i = 0; i < firstRow.getLastCellNum(); i++) {
 				if(firstRow.getCell(i).getStringCellValue().equals(colName)) {
@@ -109,9 +113,8 @@ public class ExcelBank extends BaseClass{
 				cell = row.getCell(colNo);
 			}
 			cell.setCellValue(data);
-			fis.close();
 			fos=new FileOutputStream(System.getProperty("user.dir")+excel.getProperty("path"));
-			getWorkbook().write(fos);
+			wb.write(fos);
 			fos.close();
 		} catch (Exception e) {
 			log.error("Error writing to excel file"+e.getMessage());

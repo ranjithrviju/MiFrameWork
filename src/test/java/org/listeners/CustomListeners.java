@@ -65,7 +65,9 @@ public class CustomListeners extends BaseClass implements ITestListener, IClassL
 	}
 
 	public void onBeforeClass(ITestClass testClass) {
-		test=extent.createTest(testClass.getName().replaceAll("org.testcases.", "").toUpperCase());
+		String testName = testClass.getName().substring(testClass.getName().indexOf("_")+1);
+		test=extent.createTest(testName);
+//		extent.setSystemInfo("Module", testName);
 	}
 
 	public void onAfterClass(ITestClass testClass) {
