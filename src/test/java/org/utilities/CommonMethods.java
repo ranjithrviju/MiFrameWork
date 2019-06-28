@@ -1,8 +1,10 @@
 package org.utilities;
+import java.time.LocalDate;
 import org.generic.BaseClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
 import com.aventstack.extentreports.Status;
 
 public class CommonMethods extends BaseClass{
@@ -33,5 +35,19 @@ public class CommonMethods extends BaseClass{
 		} catch (Exception e) {
 			log.info("Cannot Mouse Hover to +"+locator+" :    "+e.getMessage());
 		}
+	}
+	
+	public String datePicker(int days) {
+		String datePick=null;
+		LocalDate now = LocalDate.now();
+		String[] date= now.minusDays(days).toString().split("-",3);
+		datePick=date[1]+"/"+date[2]+"/"+date[0];
+		log.info("Date to be selected is : "+datePick);
+		return datePick ;
+	}
+	
+	public Select dropDown(String locator) {
+		Select s = new Select(getElement(locator));
+		return s;
 	}
 }

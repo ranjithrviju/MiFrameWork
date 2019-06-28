@@ -14,7 +14,7 @@ import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.BeforeSuite;
 import org.utilities.TestUtils;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -27,7 +27,8 @@ public class BaseClass implements IConstants {
 	public static Logger log=Logger.getLogger("MiFrameWork Logs");
 	public static ExtentReports extent=TestUtils.getExtentReport();
 	public static ExtentTest test;
-	@BeforeTest
+
+	@BeforeSuite
 	public static void initialize() {
 		try {
 			config=new Properties();
@@ -68,17 +69,12 @@ public class BaseClass implements IConstants {
 		String testname = method.getName();
 		String sheetName=testname.substring(testname.indexOf("_")+1)+"_TestCase";
 		if(!TestUtils.isTestCaseRunnable(sheetName, testname)) {
+			log.info("Skipping the testcase as RunMode is No and Closing the browser");
 			closebrowser();
 			throw new SkipException("Skipped the test case "+testname+" as the RunMode is No");
 		}
 	}
-//	@AfterMethod
-//	public void updateResult(ITestResult result) {
-//		String name = result.getName();
-//		String sheetName=name.substring(name.indexOf("_")+1)+"_TestCase";
-//		TestUtils.setTestResultExcel(sheetName, name, String.valueOf(result.getStatus()));
-//	}
-	
+
 	public static synchronized WebElement getElement(String locator) {
 		String locators=object.getProperty(locator);
 		String[] objects=locators.split("-", 2);
@@ -87,28 +83,20 @@ public class BaseClass implements IConstants {
 		WebElement ele=null;
 		By by=null;
 		if(locType.equals("IDE")) {
-			try {
-				by=By.id(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.id(locValue);
 		}
 		else if(locType.equals("NAME")) {
-			try {
-				by=By.name(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.name(locValue);
 		}
 		else if(locType.equals("XPH")) {
-			try {
-				by=By.xpath(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.xpath(locValue);
 		}
 		if(driver.findElements(by).size()>0) {
-			ele=driver.findElement(by);
+			try {
+				ele=driver.findElement(by);
+			} catch (NoSuchElementException e) {
+				log.error("Element cannot be found using the locator : "+locType);
+			}
 		}
 		return ele;
 	}
@@ -120,28 +108,20 @@ public class BaseClass implements IConstants {
 		List<WebElement> ele=null;
 		By by=null;
 		if(locType.equals("IDE")) {
-			try {
-				by=By.id(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.id(locValue);
 		}
 		else if(locType.equals("NAME")) {
-			try {
-				by=By.name(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.name(locValue);
 		}
 		else if(locType.equals("XPH")) {
-			try {
-				by=By.xpath(locValue);
-			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using "+locType+" locator.  "+e.getLocalizedMessage());
-			}
+			by=By.xpath(locValue);
 		}
 		if(driver.findElements(by).size()>0) {
-			ele=driver.findElements(by);
+			try {
+				ele=driver.findElements(by);
+			} catch (NoSuchElementException e) {
+				log.error("Element cannot be found using the locator : "+locType);
+			}
 		}
 		return ele;
 	}

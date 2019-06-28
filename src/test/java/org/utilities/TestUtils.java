@@ -13,7 +13,10 @@ import org.generic.IConstants;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import com.aventstack.extentreports.ExtentReports;
@@ -27,15 +30,16 @@ public class TestUtils extends BaseClass implements IConstants{
 	private static ExtentReports extent;
 	private static ExtentHtmlReporter rep;
 	public static String screenshotPath;
-
+	private int retryCount = 0;
+	private static final int maxRetryCount = 2;
 	public static ExtentReports getExtentReport() {
 		extent=new ExtentReports();
 		rep=new ExtentHtmlReporter(extentPath);
 		rep.config().setTheme(Theme.DARK);
-		rep.config().setReportName("Final Report");
-		rep.config().setDocumentTitle("Report For MiFrameWork");
+		rep.config().setReportName("SmartProp Report");
+		rep.config().setDocumentTitle("Report For SmartProp");
 		extent.attachReporter(rep);
-		extent.setSystemInfo("Name", "MiFrameWork");
+		extent.setSystemInfo("Name", "SmartProp");
 		extent.setSystemInfo("Platform", "Chrome Browser Version 74 ");
 		extent.setSystemInfo("Author", "Ranjith");
 		return extent;
@@ -75,7 +79,6 @@ public class TestUtils extends BaseClass implements IConstants{
 	public static boolean isTestCaseRunnable(String sheetName, String testCaseName) {
 		boolean isRunnable=false;
 		String sheet=sheetName;
-		System.out.println("isTestCaseRunnable : "+sheet);
 		for (int i = 1; i < ExcelBank.getRowCount(sheet); i++) {
 			if(ExcelBank.getCellValue(sheet, "TestCaseID", i).equalsIgnoreCase(testCaseName)) {
 				if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("YES")) {
@@ -117,6 +120,25 @@ public class TestUtils extends BaseClass implements IConstants{
 			}
 		}catch (Exception e) {
 			log.error("failed to save the data in excel file : "+e.getMessage());
+		}
+	}
+@AfterTest
+	public void reRunTest(ITestResult result) {
+		try {
+			if(result.getStatus()==ITestResult.FAILURE) {
+					IRetryAnalyzer retry = new IRetryAnalyzer() {
+						public boolean retry(ITestResult result) {
+							if(retryCount<maxRetryCount) {
+								retryCount++;
+								return true;
+							}
+							return false;
+						}
+					};
+				
+			}
+		} catch (Exception e) {
+			log.info("Failed to execute failed testcases : "+e.getMessage());
 		}
 	}
 }
