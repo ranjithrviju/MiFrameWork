@@ -122,23 +122,5 @@ public class TestUtils extends BaseClass implements IConstants{
 			log.error("failed to save the data in excel file : "+e.getMessage());
 		}
 	}
-@AfterTest
-	public void reRunTest(ITestResult result) {
-		try {
-			if(result.getStatus()==ITestResult.FAILURE) {
-					IRetryAnalyzer retry = new IRetryAnalyzer() {
-						public boolean retry(ITestResult result) {
-							if(retryCount<maxRetryCount) {
-								retryCount++;
-								return true;
-							}
-							return false;
-						}
-					};
-				
-			}
-		} catch (Exception e) {
-			log.info("Failed to execute failed testcases : "+e.getMessage());
-		}
-	}
 }
+
