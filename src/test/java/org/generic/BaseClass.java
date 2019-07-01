@@ -10,6 +10,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -27,7 +28,8 @@ public class BaseClass implements IConstants {
 	public static Logger log=Logger.getLogger("MiFrameWork Logs");
 	public static ExtentReports extent=TestUtils.getExtentReport();
 	public static ExtentTest test;
-
+	
+//INITIALIZING THE PROPERTIES FILES
 	@BeforeSuite
 	public static void initialize() {
 		try {
@@ -52,6 +54,8 @@ public class BaseClass implements IConstants {
 			log.error("Failed to load excel.properties"+e.getMessage());
 		}
 	}
+	
+	//LAUNCHING THE BROWSER
 	@BeforeClass
 	public static void openApplication() {
 		if(config.getProperty("browser").equals("chrome")) {
@@ -59,22 +63,31 @@ public class BaseClass implements IConstants {
 			log.info("Launching Chrome Browser");
 			driver=new ChromeDriver();
 		}
+		else if(config.getProperty("browser").equals("firefox")) {
+			System.setProperty(fireFoxKey, fireFoxPAth);
+			log.info("Launching FireFox Browser");
+			driver=new FirefoxDriver();
+		}
 		driver.manage().window().maximize();
 		driver.get(config.getProperty("url"));
 		log.info("Navigated to the UAT link");
 		driver.manage().timeouts().implicitlyWait(wait, TimeUnit.SECONDS);
 	}
+	
+	//CHECKING THE RUNMODE OF TESTCASE
 	@BeforeMethod
 	public static void checkRunMode(Method method){
 		String testname = method.getName();
 		String sheetName=testname.substring(testname.indexOf("_")+1)+"_TestCase";
+		log.info("Checking the Run Mode of TestCase "+testname);
 		if(!TestUtils.isTestCaseRunnable(sheetName, testname)) {
 			log.info("Skipping the testcase as RunMode is No and Closing the browser");
 			closebrowser();
-			throw new SkipException("Skipped the test case "+testname+" as the RunMode is No");
+			throw new SkipException("Skipped the test case "+testname.toUpperCase()+" as the RunMode is No");
 		}
 	}
 
+	//TO GET THE ELEMENT 
 	public static synchronized WebElement getElement(String locator) {
 		String locators=object.getProperty(locator);
 		String[] objects=locators.split("-", 2);
@@ -93,6 +106,7 @@ public class BaseClass implements IConstants {
 		}
 		if(driver.findElements(by).size()>0) {
 			try {
+				log.info("Finding Element using "+locType);
 				ele=driver.findElement(by);
 			} catch (NoSuchElementException e) {
 				log.error("Element cannot be found using the locator : "+locType);
@@ -100,6 +114,8 @@ public class BaseClass implements IConstants {
 		}
 		return ele;
 	}
+	
+	//TO GET THE LIST OF ELEMENTS
 	public static synchronized List<WebElement> getListOfElement(String locator) {
 		String locators=object.getProperty(locator);
 		String[] objects=locators.split("-", 2);
@@ -118,6 +134,7 @@ public class BaseClass implements IConstants {
 		}
 		if(driver.findElements(by).size()>0) {
 			try {
+				log.info("Finding Elements using "+locType);
 				ele=driver.findElements(by);
 			} catch (NoSuchElementException e) {
 				log.error("Element cannot be found using the locator : "+locType);
@@ -125,6 +142,8 @@ public class BaseClass implements IConstants {
 		}
 		return ele;
 	}
+	
+	//CLOSING THE BROWSER
 	@AfterClass
 	public static void closebrowser() {
 		if(driver!=null) {

@@ -15,6 +15,7 @@ public class CustomListeners extends BaseClass implements ITestListener, IClassL
 	public void onTestSuccess(ITestResult result) {
 		String name = result.getName();
 		String sheetName=name.substring(name.indexOf("_")+1)+"_TestCase";
+		log.info("Updating the Test Case Status in Excel");
 		TestUtils.setTestResultExcel(sheetName, name,"PASS");
 		test.log(Status.PASS, name.toUpperCase()+" is PASSED");
 		extent.flush();
@@ -24,6 +25,7 @@ public class CustomListeners extends BaseClass implements ITestListener, IClassL
 		try {
 			String name = result.getName();
 			String sheetName=name.substring(name.indexOf("_")+1)+"_TestCase";
+			log.info("Updating the Test Case Status in Excel");
 			TestUtils.setTestResultExcel(sheetName, name, "FAIL");
 			TestUtils.captureScreenshot(driver, result.getMethod().getMethodName());
 			test.log(Status.FAIL, name.toUpperCase()+" is FAILED due to :- "+result.getThrowable().toString());
@@ -37,6 +39,7 @@ public class CustomListeners extends BaseClass implements ITestListener, IClassL
 	public void onTestSkipped(ITestResult result) {
 		String name = result.getName();
 		String sheetName=name.substring(name.indexOf("_")+1)+"_TestCase";
+		log.info("Updating the Test Case Status in Excel");
 		TestUtils.setTestResultExcel(sheetName, name,"SKIP");
 		test.log(Status.SKIP, name.toUpperCase()+" is SKIPPED due to RunMode is NO");
 		extent.flush();
@@ -54,8 +57,8 @@ public class CustomListeners extends BaseClass implements ITestListener, IClassL
 	}
 
 	public void onBeforeClass(ITestClass testClass) {
-		String testName = testClass.getName().substring(testClass.getName().indexOf("_")+1);
-		test=extent.createTest(testName);
+		String testName = testClass.getName().replaceAll("org.testcases.", "");
+		test=extent.createTest(testName.toUpperCase());
 	}
 
 	public void onAfterClass(ITestClass testClass) {

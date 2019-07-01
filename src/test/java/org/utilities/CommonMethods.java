@@ -13,6 +13,7 @@ public class CommonMethods extends BaseClass{
 		try {
 			ele=getElement(locator);
 			ele.click();
+			log.info("Clickin on "+locator);
 			test.log(Status.INFO, "Click on "+locator);
 		} catch (Exception e) {
 			log.info("Failed to Click on  "+locator+" :    "+e.getMessage());
@@ -22,6 +23,7 @@ public class CommonMethods extends BaseClass{
 		try {
 			ele=getElement(locator);
 			ele.sendKeys(data);
+			log.info("Enter text in "+data+" in "+"locator");
 			test.log(Status.INFO, "Enter "+data+" in "+locator);
 		} catch (Exception e) {
 			log.info("Failed to enter text in "+locator+" :    "+e.getMessage());
@@ -31,6 +33,7 @@ public class CommonMethods extends BaseClass{
 		try {
 			Actions act=new Actions(driver);
 			act.moveToElement(getElement(locator)).build().perform();
+			log.info("Mouse Hovering to "+locator);
 			test.log(Status.INFO, "Mouse Hover on "+locator);
 		} catch (Exception e) {
 			log.info("Cannot Mouse Hover to +"+locator+" :    "+e.getMessage());
@@ -48,6 +51,7 @@ public class CommonMethods extends BaseClass{
 	
 	public Select dropDown(String locator) {
 		Select s = new Select(getElement(locator));
+		log.info("Created object of drop down "+locator);
 		return s;
 	}
 }

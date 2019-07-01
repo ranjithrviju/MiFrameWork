@@ -6,6 +6,8 @@ public interface IConstants {
 	String excelPath=System.getProperty("user.dir")+"\\src\\test\\resources\\properties\\excel.properties";
 	String chromeKey="webdriver.chrome.driver";
 	String chromePath=System.getProperty("user.dir")+"\\src\\test\\resources\\driverExe\\chromedriver.exe";
+	String fireFoxKey="webdriver.gecko.driver";
+	String fireFoxPAth=System.getProperty("user.dir")+"\\src\\test\\resources\\driverExe\\geckodriver.exe";
 	String extentPath=System.getProperty("user.dir")+"\\src\\test\\resources\\reports\\ExtentReport.html";
 	int wait=10;
 }
