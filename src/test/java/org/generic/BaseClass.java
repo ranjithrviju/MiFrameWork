@@ -106,10 +106,10 @@ public class BaseClass implements IConstants {
 		}
 		if(driver.findElements(by).size()>0) {
 			try {
-				log.info("Finding Element using "+locType);
+				log.info("Finding Element  "+locator);
 				ele=driver.findElement(by);
 			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using the locator : "+locType);
+				log.error(locator+"Element cannot be found using the locator : "+locType);
 			}
 		}
 		return ele;
@@ -134,10 +134,10 @@ public class BaseClass implements IConstants {
 		}
 		if(driver.findElements(by).size()>0) {
 			try {
-				log.info("Finding Elements using "+locType);
+				log.info("Finding Elements  "+locator);
 				ele=driver.findElements(by);
 			} catch (NoSuchElementException e) {
-				log.error("Element cannot be found using the locator : "+locType);
+				log.error(locator+"Element cannot be found using the locator : "+locType);
 			}
 		}
 		return ele;
