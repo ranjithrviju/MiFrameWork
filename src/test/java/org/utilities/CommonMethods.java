@@ -1,6 +1,7 @@
 package org.utilities;
 import java.time.LocalDate;
 import org.generic.BaseClass;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -9,6 +10,7 @@ import com.aventstack.extentreports.Status;
 
 public class CommonMethods extends BaseClass{
 	private  WebElement ele;
+	private JavascriptExecutor js=(JavascriptExecutor) driver;
 	public  void clickEle(String locator) {
 		try {
 			ele=getElement(locator);
@@ -23,7 +25,7 @@ public class CommonMethods extends BaseClass{
 		try {
 			ele=getElement(locator);
 			ele.sendKeys(data);
-			log.info("Enter text in "+data+" in "+"locator");
+			log.info("Entered "+data+" in "+locator);
 			test.log(Status.INFO, "Enter "+data+" in "+locator);
 		} catch (Exception e) {
 			log.info("Failed to enter text in "+locator+" :    "+e.getMessage());
@@ -53,5 +55,16 @@ public class CommonMethods extends BaseClass{
 		Select s = new Select(getElement(locator));
 		log.info("Created object of drop down "+locator);
 		return s;
+	}
+	
+	public void javaScriptClick(String locator) {
+		js.executeScript("arguments[0].click()", getElement(locator));
+		log.info("Clickin on "+locator);
+		test.log(Status.INFO, "Click on "+locator);
+	}
+	public void javaScriptEnterText(String locator,String data) {
+		js.executeScript("arguments[0].value='"+data+"'", getElement(locator));
+		log.info("Entered "+data+" in "+locator);
+		test.log(Status.INFO, "Enter "+data+" in "+locator);
 	}
 }

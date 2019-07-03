@@ -12,6 +12,7 @@ import org.generic.BaseClass;
 
 public class ExcelBank extends BaseClass{
 	public static FileInputStream fis;
+	static String path = System.getProperty("user.dir")+excel.getProperty("path");
 	public static FileOutputStream fos;
 	public static Workbook wb;
 	public static Sheet sheet;
@@ -19,19 +20,22 @@ public class ExcelBank extends BaseClass{
 	public static Row row;
 	public static Workbook getWorkbook() {
 		try {
-			fis=new FileInputStream(System.getProperty("user.dir")+excel.getProperty("path"));
+			log.info("Loading Excel File from the path : "+path);
+			fis=new FileInputStream(path);
 			wb = WorkbookFactory.create(fis);
+			log.info("Creating the WorkBook");
 		} catch (Exception e) {
-			log.error("Failed to load the file from the path : "+e.getMessage());
-			
+			log.error("Failed to create the WorkBook : "+e.toString());
+
 		}
 		return wb;
 	}
 	public static Sheet getSheet(String sheetName) {
 		try {
+			log.info("Getting the SheetName from excel : "+sheetName);
 			sheet = getWorkbook().getSheet(sheetName);
 		} catch (Exception e) {
-			log.error("Sheet name does not exixt"+e.getMessage());
+			log.error("Sheet name does not exixt"+e.toString());
 		}
 		return sheet;
 	}
@@ -39,8 +43,9 @@ public class ExcelBank extends BaseClass{
 		int rowCount=0;
 		try {
 			rowCount=getSheet(sheetName).getPhysicalNumberOfRows();
+			log.info("The number of Rows : "+rowCount);
 		} catch (Exception e) {
-			log.error("Error finding rows"+e.getMessage());
+			log.error("Error finding rows"+e.toString());
 		}
 		return rowCount;
 	}
@@ -48,8 +53,9 @@ public class ExcelBank extends BaseClass{
 		int columnCount=0;
 		try {
 			columnCount = getSheet(sheetName).getRow(0).getLastCellNum();
+			log.info("The number of Columns : "+columnCount);
 		} catch (Exception e) {
-			log.error("Error finding columns"+e.getMessage());
+			log.error("Error finding columns"+e.toString());
 		}
 		return columnCount;
 	}
@@ -72,7 +78,7 @@ public class ExcelBank extends BaseClass{
 				cellValue=String.valueOf((int)cell.getNumericCellValue());
 			}
 		} catch (Exception e) {
-			log.error("failed to get the data from excel file"+e.getMessage());
+			log.error("failed to get the data from excel file"+e.toString());
 		}
 		return cellValue;
 	}
@@ -88,15 +94,15 @@ public class ExcelBank extends BaseClass{
 				cellValue=String.valueOf((int)cell.getNumericCellValue());
 			}
 		} catch (Exception e) {
-			log.error("failed to get the data from excel file"+e.getMessage());
+			log.error("failed to get the data from excel file"+e.toString());
 		}
-		
+
 		return cellValue;
 	}
 	public static boolean setCellValue(String sheetName, String colName,int rowNo,String data) {
 		int colNo=0;
 		try {
-			 wb = getWorkbook();
+			wb = getWorkbook();
 			sheet = wb.getSheet(sheetName);
 			Row firstRow = sheet.getRow(0);
 			for (int i = 0; i < firstRow.getLastCellNum(); i++) {
@@ -117,7 +123,7 @@ public class ExcelBank extends BaseClass{
 			wb.write(fos);
 			fos.close();
 		} catch (Exception e) {
-			log.error("Error writing to excel file"+e.getMessage());
+			log.error("Error writing to excel file"+e.toString());
 			return false;
 		}
 		return true;

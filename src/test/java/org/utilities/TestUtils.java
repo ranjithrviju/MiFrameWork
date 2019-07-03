@@ -30,8 +30,6 @@ public class TestUtils extends BaseClass implements IConstants{
 	private static ExtentReports extent;
 	private static ExtentHtmlReporter rep;
 	public static String screenshotPath;
-	private int retryCount = 0;
-	private static final int maxRetryCount = 2;
 	public static ExtentReports getExtentReport() {
 		extent=new ExtentReports();
 		rep=new ExtentHtmlReporter(extentPath);
@@ -83,10 +81,12 @@ public class TestUtils extends BaseClass implements IConstants{
 			if(ExcelBank.getCellValue(sheet, "TestCaseID", i).equalsIgnoreCase(testCaseName)) {
 				if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("YES")) {
 					isRunnable=true;
+					log.info("The Run Mode of "+testCaseName+" is "+ExcelBank.getCellValue(sheet, "RunMode", i));
 				}
-
-				else if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("NO"))
+				else if(ExcelBank.getCellValue(sheet, "RunMode", i).equals("NO")) {
 					isRunnable=false;
+					log.info("The Run Mode of "+testCaseName+" is "+ExcelBank.getCellValue(sheet, "RunMode", i));
+				}
 			}
 		}
 		return isRunnable;
@@ -123,4 +123,3 @@ public class TestUtils extends BaseClass implements IConstants{
 		}
 	}
 }
-
