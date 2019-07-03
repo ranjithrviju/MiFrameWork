@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.SkipException;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -28,7 +29,7 @@ public class BaseClass implements IConstants {
 	public static Logger log=Logger.getLogger("MiFrameWork Logs");
 	public static ExtentReports extent=TestUtils.getExtentReport();
 	public static ExtentTest test;
-	
+	public static  WebDriverWait driverWait;
 //INITIALIZING THE PROPERTIES FILES
 	@BeforeSuite
 	public static void initialize() {
@@ -62,11 +63,13 @@ public class BaseClass implements IConstants {
 			System.setProperty(chromeKey, chromePath);
 			log.info("Launching Chrome Browser");
 			driver=new ChromeDriver();
+			driverWait=new WebDriverWait(driver, exwait);
 		}
 		else if(config.getProperty("browser").equals("firefox")) {
 			System.setProperty(fireFoxKey, fireFoxPAth);
 			log.info("Launching FireFox Browser");
 			driver=new FirefoxDriver();
+			driverWait=new WebDriverWait(driver, exwait);
 		}
 		driver.manage().window().maximize();
 		driver.get(config.getProperty("url"));

@@ -10,4 +10,5 @@ public interface IConstants {
 	String fireFoxPAth=System.getProperty("user.dir")+"\\src\\test\\resources\\driverExe\\geckodriver.exe";
 	String extentPath=System.getProperty("user.dir")+"\\src\\test\\resources\\reports\\ExtentReport.html";
 	int wait=10;
+	int exwait=20;
 }
