@@ -1,16 +1,17 @@
 package org.utilities;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
-import org.apache.poi.util.IOUtils;
 import org.generic.BaseClass;
 
 public class ExcelBank extends BaseClass{
+	private static Logger log=Logger.getLogger("ExcelBank");
 	public static FileInputStream fis;
 	static String path = System.getProperty("user.dir")+excel.getProperty("path");
 	public static FileOutputStream fos;

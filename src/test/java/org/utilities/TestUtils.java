@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
 import java.util.Date;
+import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -13,20 +14,16 @@ import org.generic.IConstants;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.testng.IRetryAnalyzer;
-import org.testng.ITestResult;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.model.Test;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.google.common.io.Files;
 
 //EXTENT REPORT
 public class TestUtils extends BaseClass implements IConstants{
+	private static Logger log=Logger.getLogger("TestUtils");
 	private static ExtentReports extent;
 	private static ExtentHtmlReporter rep;
 	public static String screenshotPath;

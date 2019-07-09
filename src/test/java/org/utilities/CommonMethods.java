@@ -1,5 +1,6 @@
 package org.utilities;
 import java.time.LocalDate;
+import org.apache.log4j.Logger;
 import org.generic.BaseClass;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -9,6 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 import com.aventstack.extentreports.Status;
 
 public class CommonMethods extends BaseClass{
+	private static Logger log=Logger.getLogger("Common Methods");
 	private  WebElement ele;
 	private JavascriptExecutor js=(JavascriptExecutor) driver;
 	public  void clickEle(String locator) {
@@ -55,6 +57,12 @@ public class CommonMethods extends BaseClass{
 		Select s = new Select(getElement(locator));
 		log.info("Created object of drop down "+locator);
 		return s;
+	}
+	public String getFirstSelectedItem(String locator) {
+		String option=null;
+		Select s = new Select(getElement(locator));
+		option = s.getFirstSelectedOption().getText();
+		return option;
 	}
 	
 	public void javaScriptClick(String locator) {

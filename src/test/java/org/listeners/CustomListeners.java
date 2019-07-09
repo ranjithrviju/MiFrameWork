@@ -1,5 +1,6 @@
 package org.listeners;
 import java.io.IOException;
+import org.apache.log4j.Logger;
 import org.generic.BaseClass;
 import org.testng.IClassListener;
 import org.testng.ITestClass;
@@ -10,6 +11,7 @@ import org.utilities.TestUtils;
 import com.aventstack.extentreports.Status;
 
 public class CustomListeners extends BaseClass implements ITestListener, IClassListener {
+	private static Logger log=Logger.getLogger("Custom Listeners");
 	public void onTestStart(ITestResult result) {
 	}
 	public void onTestSuccess(ITestResult result) {

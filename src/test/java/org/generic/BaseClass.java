@@ -26,7 +26,7 @@ public class BaseClass implements IConstants {
 	public static Properties config;
 	public static Properties object;
 	public static Properties excel;
-	public static Logger log=Logger.getLogger("MiFrameWork Logs");
+	private static Logger log=Logger.getLogger("Base Class");
 	public static ExtentReports extent=TestUtils.getExtentReport();
 	public static ExtentTest test;
 	public static  WebDriverWait driverWait;
@@ -112,7 +112,7 @@ public class BaseClass implements IConstants {
 				log.info("Finding Element  "+locator);
 				ele=driver.findElement(by);
 			} catch (NoSuchElementException e) {
-				log.error(locator+"Element cannot be found using the locator : "+locType);
+				log.error(locator+" cannot be found using the locator : "+locType+" due to : "+e.getMessage());
 			}
 		}
 		return ele;
